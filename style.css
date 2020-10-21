@@ -1,0 +1,25 @@
+body {
+    background-image: url('alap.jpg');
+    margin: 30px auto;
+    width: 50%;
+    font-family: 'Times New Roman', serif;
+    text-align: justify;
+}
+
+#dolt {
+    font-style: italic;
+}
+
+#felkover {
+    font-weight: bold;
+}
+
+#male {
+    width: 200px;
+    float: right;
+}
+
+#female {
+    width: 200px;
+    float: right;
+}
